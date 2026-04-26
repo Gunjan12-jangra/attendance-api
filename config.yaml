@@ -1,11 +1,11 @@
 postgres:
   database: attendance_db
-  host: 127.0.0.1
+  host: 13.235.103.29
   port: 5432
   user: attendance_user
   password: 12345
 
 redis:
-  host: 127.0.0.1 
+  host: 13.235.103.29
   port: 6379
   password: null
